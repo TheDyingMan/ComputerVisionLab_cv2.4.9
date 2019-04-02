@@ -45,12 +45,6 @@
     <ClInclude Include="FERNSDlg.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="ResultDlg.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="KeyPointsDlg.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ComputerVision_Lab.cpp">
@@ -75,12 +69,6 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="FERNSDlg.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="ResultDlg.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="KeyPointsDlg.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
