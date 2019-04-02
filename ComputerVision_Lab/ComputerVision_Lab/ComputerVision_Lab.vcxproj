@@ -295,7 +295,9 @@ opencv_videostab249.lib;%(AdditionalDependencies)</AdditionalDependencies>
     <ClInclude Include="ComputerVision_LabDlg.h" />
     <ClInclude Include="DebugManager.h" />
     <ClInclude Include="FERNSDlg.h" />
+    <ClInclude Include="KeyPointsDlg.h" />
     <ClInclude Include="ORBDlg.h" />
+    <ClInclude Include="ResultDlg.h" />
     <ClInclude Include="Resource.h" />
     <ClInclude Include="SIFTDlg.h" />
     <ClInclude Include="stdafx.h" />
@@ -307,7 +309,9 @@ opencv_videostab249.lib;%(AdditionalDependencies)</AdditionalDependencies>
     <ClCompile Include="ComputerVision_LabDlg.cpp" />
     <ClCompile Include="DebugManager.cpp" />
     <ClCompile Include="FERNSDlg.cpp" />
+    <ClCompile Include="KeyPointsDlg.cpp" />
     <ClCompile Include="ORBDlg.cpp" />
+    <ClCompile Include="ResultDlg.cpp" />
     <ClCompile Include="SIFTDlg.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
